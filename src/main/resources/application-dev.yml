@@ -1,0 +1,2 @@
+verify-code: 1234
+uuid: ${random.uuid}

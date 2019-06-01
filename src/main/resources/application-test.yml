@@ -1,0 +1,2 @@
+verify-code: ${random.int[1000,9999]}
+uuid: ${random.uuid}
